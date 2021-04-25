@@ -134,7 +134,7 @@ We were able to ensure accessible standards through research, specfic changes to
 challenge-1 was upload to [Github](https://github.com/) at the following repository: 
 [https://github.com/brieeikeseth/challenge-1](https://github.com/brieeikeseth/challenge-1)
 
-Access to deploted application in GitHub:
+Access to deployed application in GitHub:
 [https://brieeikeseth.github.io/challenge-1/](https://brieeikeseth.github.io/challenge-1/)
 
 ## References 
